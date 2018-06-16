@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My first game</string>
+    <string name="griditem">game</string>
+    <string name="game">Game</string>
+    <string name="textview">TextView</string>
+    <string name="play_again">play again</string>
+
+</resources>
